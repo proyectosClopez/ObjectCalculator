@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CalculadoraObjetos2018291.jnlp">
+  <information>
+    <title>CalculadoraObjetos2018291</title>
+    <vendor>informatica</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CalculadoraObjetos2018291.jar" size="38484" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="CalculadoraObjetos2018291" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="org.cristianlopez.system.Principal"  name="CalculadoraObjetos2018291" />
+  <update check="always"/>
+</jnlp>
